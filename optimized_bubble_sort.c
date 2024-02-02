@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+// github : first code
 // optimization 01 : if ix == -1 after an iteration then the arr is sorted 
 // so the sort terminates
 // optimization 02 : each time the while loop runs till (last swap_index -1)
